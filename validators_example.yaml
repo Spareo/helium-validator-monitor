@@ -1,0 +1,5 @@
+validators:
+- name: my-first-validator
+  address: 11aabb33Gdjaj234
+- name: my-second-validator
+  address: 22aabb33Gdjaj234
